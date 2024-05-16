@@ -19,6 +19,13 @@
 .btn-primary {
     color: white;
     background-color: #9353FF;
+    border-color: #9353FF;
+}
+.btn-primary:hover {
+    color: black;
+    background-color: #DAFF01;
+    border-color: #9353FF;
+
 }
 
 
