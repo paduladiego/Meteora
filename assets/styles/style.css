@@ -1,0 +1,54 @@
+.texto-menor {
+    font-size: .8125rem;
+}
+
+.divs__facilidades {
+    width: 20.3125rem;
+
+}
+
+.divs__novidades {
+    width: 20.3125rem;
+
+}
+
+.text-verde {
+    color: #DAFF01;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #9353FF;
+}
+
+
+
+@media screen and (min-width: 768px) {
+    .divs__novidades {
+        width: 43.5rem;
+
+    }
+
+    .posicao {
+        top: 35%;
+    }
+}
+    @media screen and (min-width: 1440px) {
+        .texto-menor {
+            font-size: 1rem;
+
+        }
+
+        .divs__facilidades {
+            width: 19rem;
+
+        }
+
+        .fs-xxl-1 {
+            font-size: 5.375rem !important;
+        }
+
+        .posicao {
+            top: 40%;
+        }
+    }
